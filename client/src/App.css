@@ -4,10 +4,11 @@
   padding: auto;
 }
 
-/* .profile-content{
-  align-items: center;
-  width: 400px;
-} */
+.nav {
+  width: 100%;
+  background-color: black;
+  height: 40px;
+}
 
 .round-image {
   width: 200px;
