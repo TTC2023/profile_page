@@ -1,8 +1,6 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
+    hpu,
+    codingDojo,
     javascript,
     typescript,
     html,
@@ -15,14 +13,13 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    brotherbeans,
+    ocwen,
     carrent,
     jobit,
     tripguide,
     threejs,
+    corpEssentials,
   } from "../assets";
   
   export const navLinks = [
@@ -42,17 +39,17 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
+      title: "High Point University - Business Admin",
+      icon: hpu,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Coding Dojo Full-Stack Bootcamp",
+      icon: codingDojo,
     },
-    {
-      title: "Backend Developer",
-      icon: backend,
-    },
+    // {
+    //   title: "Backend Developer",
+    //   icon: backend,
+    // },
     // {
     //   title: "Content Creator",
     //   icon: creator,
@@ -73,16 +70,8 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
     },
     {
       name: "Tailwind CSS",
@@ -104,67 +93,41 @@ import {
       name: "git",
       icon: git,
     },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
-    },
   ];
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Managing Partner",
+      company_name: "Brother Beans",
+      icon: brotherbeans,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "February 2019 - April 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Co-founded and oversee day-to-day operations of e-commerce, equipment rental, and beverage delivery service in Northern NJ. Manage roasting, delivery, and fulfillment operations in 1,400 SF facility.",
+        "E-Commerce: Built out website and full e-commerce store in Squarespace. Created password protected wholesale site to provide differentiated experiences for retail and wholesale buyers.",
+        "SEO/SEM: Improved organic search results to #8 for high-value keywords with commercial intent via on- and off-page SEO optimization. Self-taught through Coursera course and extensive research.",
+        "Customer Acquisition: Launched and managed email marketing program – grew opt-in database to upwards of 40% and devised series of monthly newsletters and seasonal/holiday promotions.",
+        "Strategic Agility: Rapidly pivoted during COVID, transitioning from initial target of industrial and office to multiple revenue streams, including wholesale subscriptions, seasonal cold brew delivery agreements, e-commerce retail."
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Service Technician",
+      company_name: "Corporate Essentials",
+      icon: corpEssentials,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Jan 2016 - Feb 2019",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Performed preventive maintenance, scheduled repair, and break-fix service on industrial coffee equipment for established provider of breakroom solutions to corporate accounts. Consistently met and exceeded all service goals, providing timely, efficient, and accurate recommendations to meet customer needs.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      title: "Cash Management / Analyst",
+      company_name: "Ocwen Loan Servicing",
+      icon: ocwen,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jan 2015 - Jan 2016",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Partnered with India-based teams on $126M in wire transfers for upwards of $1B monthly loan volume—2,500+ deals monthly—between bank-to-bank custodial accounts. Delivered projections, cash flow reports, and various ad hoc analyses for senior leadership.",
       ],
     },
   ];

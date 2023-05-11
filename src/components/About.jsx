@@ -42,7 +42,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a junior web developer
+        Passionate and driven Junior Front-End Developer with a strong background in entrepreneurship and project management. Recently completed a top-ranked Coding Bootcamp at Coding Dojo, acquiring skills in JavaScript, HTML, CSS, React, and other essential front-end technologies. Successfully launched and managed a gourmet coffee roasting and cold brew company, pivoting during COVID to develop a robust e-commerce platform with an engaging user interface. Adept at client relations, UI/UX design, responsive web development, and analytical problem-solving. Excited to apply my technical and business skills in a role focused on front-end development.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
