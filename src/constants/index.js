@@ -103,10 +103,10 @@ import {
       iconBg: "#383E56",
       date: "February 2019 - April 2023",
       points: [
-        "Co-founded and oversee day-to-day operations of e-commerce, equipment rental, and beverage delivery service in Northern NJ. Manage roasting, delivery, and fulfillment operations in 1,400 SF facility.",
+        "Co-founded and oversaw day-to-day operations of e-commerce, equipment rental, and beverage delivery service in Northern NJ. Manage roasting, delivery, and fulfillment operations in 1,400 SF facility.",
         "E-Commerce: Built out website and full e-commerce store in Squarespace. Created password protected wholesale site to provide differentiated experiences for retail and wholesale buyers.",
         "SEO/SEM: Improved organic search results to #8 for high-value keywords with commercial intent via on- and off-page SEO optimization. Self-taught through Coursera course and extensive research.",
-        "Customer Acquisition: Launched and managed email marketing program – grew opt-in database to upwards of 40% and devised series of monthly newsletters and seasonal/holiday promotions.",
+        "Customer Acquisition: Launched and managed email marketing program – grew opt-in database to upwards of 40% and devised a series of monthly newsletters and seasonal/holiday promotions.",
         "Strategic Agility: Rapidly pivoted during COVID, transitioning from initial target of industrial and office to multiple revenue streams, including wholesale subscriptions, seasonal cold brew delivery agreements, e-commerce retail."
       ],
     },
